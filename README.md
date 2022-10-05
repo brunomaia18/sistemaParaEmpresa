@@ -6,5 +6,7 @@ Estou desenvolvendo um sistema para empresa que interage com o banco de dados, a
 Esse é o site -- https://testandocadastro.000webhostapp.com/ obs(ainda falta fazer algumas melhorias na parte responsiva)
 
 
-login; admin
+login: admin
+
+
 senha: 123
